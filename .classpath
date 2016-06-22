@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="var" path="M2_REPO/info/cukes/cucumber-java/1.2.2/cucumber-java-1.2.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/info/cukes/cucumber-core/1.2.2/cucumber-core-1.2.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/info/cukes/cucumber-html/0.2.3/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/info/cukes/cucumber-jvm-deps/1.0.3/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/info/cukes/gherkin/2.12.2/gherkin-2.12.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="var" path="M2_REPO/info/cukes/cucumber-junit/1.2.2/cucumber-junit-1.2.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/4.11/junit-4.11.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/jayway/restassured/rest-assured/2.9.0/rest-assured-2.9.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/groovy/groovy/2.4.4/groovy-2.4.4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/groovy/groovy-xml/2.4.4/groovy-xml-2.4.4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpcore/4.4.3/httpcore-4.4.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.10/commons-codec-1.10.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpmime/4.5.1/httpmime-4.5.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/jayway/restassured/json-path/2.9.0/json-path-2.9.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/groovy/groovy-json/2.4.4/groovy-json-2.4.4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/jayway/restassured/rest-assured-common/2.9.0/rest-assured-common-2.9.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/jayway/restassured/xml-path/2.9.0/xml-path-2.9.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/poi/poi/3.14/poi-3.14.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/poi/poi-ooxml/3.14/poi-ooxml-3.14.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/poi/poi-ooxml-schemas/3.14/poi-ooxml-schemas-3.14.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/stax/stax-api/1.0.1/stax-api-1.0.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/github/virtuald/curvesapi/1.03/curvesapi-1.03.jar"/>
+	<classpathentry kind="lib" path="D:/Simple-jbehave-example-master/Simple-jbehave-example-master/lib/jbehave-core-3.5.4.jar"/>
+	<classpathentry kind="lib" path="D:/Simple-jbehave-example-master/Simple-jbehave-example-master/lib/paranamer-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Simple-jbehave-example-master/Simple-jbehave-example-master/lib/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="D:/Simple-jbehave-example-master/Simple-jbehave-example-master/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Simple-jbehave-example-master/Simple-jbehave-example-master/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Simple-jbehave-example-master/Simple-jbehave-example-master/lib/plexus-utils-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/jxl.jar/jxl.jar"/>
+	<classpathentry kind="lib" path="D:/Backup/Sofware/JBehave/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/Backup/Sofware/JBehave/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Backup/Sofware/JBehave/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Backup/Sofware/JBehave/freemarker.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/cssparser-0.9.16.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/htmlunit-2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/htmlunit-core-js-2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/httpmime-4.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/jetty-io-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/jetty-util-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/nekohtml-1.9.22.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/websocket-api-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/websocket-client-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/websocket-common-9.2.11.v20150529.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/libs/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/selenium-java-2.46.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/selenium-java-2.46.0-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Webdriver/selenium-2.46.0/apache-logging-log4j.jar/apache-logging-log4j.jar"/>
+	<classpathentry kind="lib" path="D:/lib/java-json.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

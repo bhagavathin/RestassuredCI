@@ -1,0 +1,3 @@
+|APIURL|MethodType|APITYPE|Field|ExpectedValue|
+|http://10.146.211.7:3000/api/devices/574d6d86808fcef411217a0d|GET|JSON|name|Mushroom crop sensor|
+|http://10.146.211.7:3000/api/devices/574d5768808fcef411217a08|GET|JSON|name|Spinach Plant|
